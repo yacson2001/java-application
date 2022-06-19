@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>fintec</finalName>
+		<finalName>fintech</finalName>
 		
 		<plugins>
 			<plugin>

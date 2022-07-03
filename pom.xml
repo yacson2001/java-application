@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>fintech</finalName>
+		<finalName>health</finalName>
 		
 		<plugins>
 			<plugin>

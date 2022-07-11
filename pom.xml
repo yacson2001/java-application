@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>health</finalName>
+		<finalName>java-application</finalName>
 		
 		<plugins>
 			<plugin>
